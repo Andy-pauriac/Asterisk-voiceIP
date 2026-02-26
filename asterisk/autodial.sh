@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Fichier CSV
-CSV_FILE="/contact.csv"
 SPOOL_DIR="/var/spool/asterisk/outgoing"
 TEMP_DIR="/tmp/autodial"
 
